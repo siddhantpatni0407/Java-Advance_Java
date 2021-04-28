@@ -14,6 +14,10 @@ import org.kie.internal.io.ResourceFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * @author Siddhant
+ *
+ */
 @Configuration
 public class DroolConfig {
 	private KieServices kieServices = KieServices.Factory.get();
