@@ -1,0 +1,55 @@
+[
+	{
+		"email": "daniel@sidinfotech.com",
+		"imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+		"jobTitle": "JavaScript",
+		"name": "Daniel Craig",
+		"phone": "9865326598"
+	},
+	{
+		"email": "dave@sidinfotech.com",
+		"imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+		"jobTitle": "Java",
+		"name": "Dave Rogers",
+		"phone": "7854653215"
+	},
+	{
+		"email": "christine@sidinfotech.com",
+		"imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+		"jobTitle": "UX/UI",
+		"name": "Christine Jones",
+		"phone": "7052896475"
+	},
+	{
+		"email": "lori@sidinfotech.com",
+		"imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+		"jobTitle": "BA",
+		"name": "Lori Orwig",
+		"phone": "6265987415"
+	},
+	{
+		"email": "monte@sidinfotech.com",
+		"imageUrl": "https://bootdey.com/img/Content/avatar/avatar4.png",
+		"jobTitle": "Consultant",
+		"name": "Monte Malanke",
+		"phone": "7851362090"
+	},
+	
+	{
+		"emailId": "siddhant4patni@gmail.com",
+		"userName": "siddhant",
+		"password": "siddhant"
+	},
+	
+	{
+		"emailId": "priyanka@gmail.com",
+		"userName": "priyanka",
+		"password": "priyanka"
+	},
+	
+	{
+		"emailId": "abc@gmail.com",
+		"userName": "abc",
+		"password": "abc"
+	}
+]
