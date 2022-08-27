@@ -10,6 +10,6 @@ public class Lec02Mono {
 
         //System.out.println(mono);
 
-        mono.subscribe(i -> System.out.println("Received : "+ i));
+        mono.subscribe(i -> System.out.println("Received : " + i));
     }
 }

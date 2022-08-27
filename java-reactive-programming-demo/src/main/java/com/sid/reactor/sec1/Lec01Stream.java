@@ -13,7 +13,7 @@ public class Lec01Stream {
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
-                    return i*2;
+                    return i * 2;
                 });
         //System.out.println(stream);
         stream.forEach(System.out::println);
