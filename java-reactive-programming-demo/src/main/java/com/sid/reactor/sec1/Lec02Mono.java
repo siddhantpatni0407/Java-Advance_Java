@@ -2,6 +2,9 @@ package com.sid.reactor.sec1;
 
 import reactor.core.publisher.Mono;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec02Mono {
 
     public static void main(String[] args) {

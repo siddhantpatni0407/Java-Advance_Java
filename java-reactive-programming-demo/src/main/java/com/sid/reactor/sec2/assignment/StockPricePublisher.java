@@ -7,6 +7,9 @@ import reactor.core.publisher.Flux;
 import java.time.Duration;
 import java.util.concurrent.atomic.AtomicInteger;
 
+/**
+ * @author Siddhant Patni
+ */
 public class StockPricePublisher {
 
     public static Flux<Integer> getPrice() {

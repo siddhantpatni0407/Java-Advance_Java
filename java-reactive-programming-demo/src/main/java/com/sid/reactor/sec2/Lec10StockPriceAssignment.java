@@ -7,6 +7,9 @@ import org.reactivestreams.Subscription;
 import java.time.LocalDateTime;
 import java.util.concurrent.CountDownLatch;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec10StockPriceAssignment {
 
     public static void main(String[] args) throws InterruptedException {

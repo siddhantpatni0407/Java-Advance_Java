@@ -5,6 +5,9 @@ import reactor.core.publisher.Flux;
 
 import java.time.Duration;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec08FluxInterval {
 
     public static void main(String[] args) {

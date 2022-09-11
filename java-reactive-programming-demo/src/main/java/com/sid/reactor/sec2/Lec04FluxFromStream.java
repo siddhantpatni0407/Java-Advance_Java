@@ -6,6 +6,9 @@ import reactor.core.publisher.Flux;
 import java.util.List;
 import java.util.stream.Stream;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec04FluxFromStream {
 
     public static void main(String[] args) {

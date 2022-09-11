@@ -2,6 +2,9 @@ package com.sid.reactor.sec1;
 
 import java.util.stream.Stream;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec01Stream {
 
     public static void main(String[] args) {

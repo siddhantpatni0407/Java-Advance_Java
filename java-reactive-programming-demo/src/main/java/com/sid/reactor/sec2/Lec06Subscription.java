@@ -7,6 +7,9 @@ import reactor.core.publisher.Flux;
 
 import java.util.concurrent.atomic.AtomicReference;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec06Subscription {
 
     public static void main(String[] args) {

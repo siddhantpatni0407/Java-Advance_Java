@@ -6,6 +6,9 @@ import reactor.core.publisher.Flux;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec03FluxFromArrayOrList {
 
     public static void main(String[] args) {

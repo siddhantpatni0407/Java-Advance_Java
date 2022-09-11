@@ -5,6 +5,9 @@ import reactor.core.publisher.Mono;
 import reactor.core.scheduler.Scheduler;
 import reactor.core.scheduler.Schedulers;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec06SupplierRefactoring {
 
     public static void main(String[] args) {

@@ -5,12 +5,19 @@ import org.reactivestreams.Subscriber;
 
 import java.util.function.Consumer;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Util {
 
     public static final Faker FAKER = Faker.instance();
 
     public static Consumer<Throwable> onError() {
         return e -> System.out.println("ERROR : " + e.getMessage());
+    }
+
+    public static Runnable onComplete() {
+        return () -> System.out.println("Completed");
     }
 
     public static Consumer<Object> onNext() {

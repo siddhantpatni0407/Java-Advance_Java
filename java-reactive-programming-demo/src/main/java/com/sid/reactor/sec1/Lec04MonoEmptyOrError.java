@@ -3,6 +3,9 @@ package com.sid.reactor.sec1;
 import com.sid.reactor.util.Util;
 import reactor.core.publisher.Mono;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec04MonoEmptyOrError {
 
     public static void main(String[] args) {

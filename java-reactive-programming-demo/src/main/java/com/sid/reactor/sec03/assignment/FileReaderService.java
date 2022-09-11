@@ -12,6 +12,9 @@ import java.util.concurrent.Callable;
 import java.util.function.BiFunction;
 import java.util.function.Consumer;
 
+/**
+ * @author Siddhant Patni
+ */
 public class FileReaderService {
 
     private Callable<BufferedReader> openReader(Path path){

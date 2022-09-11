@@ -7,6 +7,9 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
+/**
+ * @author Siddhant Patni
+ */
 public class FileService {
 
     private static final Path PATH = Paths.get("src/main/resources/assignment/sec01");

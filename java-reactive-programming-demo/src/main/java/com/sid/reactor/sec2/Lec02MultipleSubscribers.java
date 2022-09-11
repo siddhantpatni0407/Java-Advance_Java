@@ -2,6 +2,9 @@ package com.sid.reactor.sec2;
 
 import reactor.core.publisher.Flux;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec02MultipleSubscribers {
 
     public static void main(String[] args) {

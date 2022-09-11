@@ -3,6 +3,9 @@ package com.sid.reactor.util;
 import org.reactivestreams.Subscriber;
 import org.reactivestreams.Subscription;
 
+/**
+ * @author Siddhant Patni
+ */
 public class DefaultSubscriber implements Subscriber<Object> {
 
     private String name = "";

@@ -5,6 +5,9 @@ import reactor.core.publisher.Mono;
 
 import java.util.concurrent.CompletableFuture;
 
+/**
+ * @author Siddhant Patni
+ */
 public class Lec07MonoFromFuture {
 
     public static void main(String[] args) {
