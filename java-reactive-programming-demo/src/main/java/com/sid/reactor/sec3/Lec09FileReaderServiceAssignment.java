@@ -1,7 +1,7 @@
-package com.sid.reactor.sec03;
+package com.sid.reactor.sec3;
 
 
-import com.sid.reactor.sec03.assignment.FileReaderService;
+import com.sid.reactor.sec3.assignment.FileReaderService;
 import com.sid.reactor.util.Util;
 
 import java.nio.file.Path;

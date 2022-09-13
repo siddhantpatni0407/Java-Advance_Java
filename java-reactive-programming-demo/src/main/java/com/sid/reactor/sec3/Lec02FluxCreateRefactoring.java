@@ -1,19 +1,19 @@
-package com.sid.reactor.sec03;
+package com.sid.reactor.sec3;
 
-import com.sid.reactor.sec03.helper.NameProducer;
+import com.sid.reactor.sec3.helper.NameProducer;
 import com.sid.reactor.util.Util;
 import reactor.core.publisher.Flux;
 
 /**
  * @author Siddhant Patni
  */
-public class Lec08FluxPush {
+public class Lec02FluxCreateRefactoring {
 
     public static void main(String[] args) {
 
         NameProducer nameProducer = new NameProducer();
 
-        Flux.push(nameProducer)
+        Flux.create(nameProducer)
                 .subscribe(Util.subscriber());
 
         Runnable runnable = () -> nameProducer.produce();

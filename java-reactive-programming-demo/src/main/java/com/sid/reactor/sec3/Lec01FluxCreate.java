@@ -1,4 +1,4 @@
-package com.sid.reactor.sec03;
+package com.sid.reactor.sec3;
 
 import com.sid.reactor.util.Util;
 import reactor.core.publisher.Flux;

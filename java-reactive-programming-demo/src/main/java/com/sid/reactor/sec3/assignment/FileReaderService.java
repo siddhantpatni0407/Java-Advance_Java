@@ -1,4 +1,4 @@
-package com.sid.reactor.sec03.assignment;
+package com.sid.reactor.sec3.assignment;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.SynchronousSink;
